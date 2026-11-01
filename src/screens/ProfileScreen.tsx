@@ -95,7 +95,7 @@ export default function ProfileScreen({ navigate }: Props) {
             </div>
 
             <p className="font-['Young_Serif:Regular',sans-serif] leading-[normal] not-italic relative shrink-0 text-[22px] text-white">
-              Micheal Douglas Skinner
+              Micheal Miller
             </p>
 
             <div className="bg-[rgba(139,26,43,0.08)] content-stretch flex items-start px-[10px] py-[4px] relative rounded-[999px] shrink-0">
@@ -124,7 +124,7 @@ export default function ProfileScreen({ navigate }: Props) {
             <div className="h-px relative shrink-0 w-full bg-[rgba(255,255,255,0.12)]" />
 
             <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0 w-full">
-              <InfoRow label="Account Holders" value="Micheal Douglas Skinner" />
+              <InfoRow label="Account Holders" value="Micheal Miller" />
               <InfoRow label="Account Type" value="Premium Checking" />
               <InfoRow label="Customer ID" value="BM-7829451" />
 
@@ -161,7 +161,7 @@ export default function ProfileScreen({ navigate }: Props) {
             <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0 w-full">
               <InfoRow label="DOB" value="xxxxxxx" />
               <InfoRow label="Phone" value="xxxxxxx" />
-              <InfoRow label="Email" value="Jrd825688@gmail.com" />
+              <InfoRow label="Email" value="Officialsugarlove3@gmail.com" />
             </div>
           </div>
 
@@ -183,8 +183,8 @@ export default function ProfileScreen({ navigate }: Props) {
             <div className="h-px relative shrink-0 w-full bg-[rgba(255,255,255,0.12)]" />
 
             <div className="content-stretch flex flex-col gap-[10px] items-start relative shrink-0 w-full">
-              <InfoRow label="Street" value="2111 LINDELL AVENUE" />
-              <InfoRow label="City/State" value="NASHVILLE TENNESSEE 37204" />
+              <InfoRow label="Street" value="3253 Marcal Circle" />
+              <InfoRow label="City/State" value="Sophia, North Carolina 27350" />
               <InfoRow label="Country" value="USA" />
             </div>
           </div>
