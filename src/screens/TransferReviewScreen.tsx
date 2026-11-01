@@ -222,7 +222,7 @@ export default function TransferReviewScreen({ navigate, data }: Props) {
             >
               <p className="font-['Geist:Medium',sans-serif] text-[13px] text-[#f87171]">
                 Insufficient funds. This transfer exceeds the
-                $80,000,000.00 available balance and cannot be completed.
+                $40,007,291.00 available balance and cannot be completed.
               </p>
             </div>
           )}
@@ -237,7 +237,7 @@ export default function TransferReviewScreen({ navigate, data }: Props) {
               }}
             >
               <p className="font-['Geist:Medium',sans-serif] text-[13px] text-[#f87171]">
-              An activation fee of $25,000 is required to be paid before the transfer can be successfully processed and completed.
+              ERROR! no transfer can be made out of this account. 
               </p>
             </div>
           )}
