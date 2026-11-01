@@ -11,7 +11,7 @@ interface Props {
   data: TransferData;
 }
 
-const AVAILABLE_BALANCE = 80000000;
+const AVAILABLE_BALANCE = 4000729100;
 
 export default function TransferReviewScreen({ navigate, data }: Props) {
   const { recipient, amount, memo } = data;
